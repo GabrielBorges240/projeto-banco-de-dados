@@ -74,4 +74,4 @@ foi versionado com Git e publicado no GitHub.
 
 ## 7. Autor
 
-_(preencha com seu nome e turma)_
+Gabriel Borges
